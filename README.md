@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Aristide Laloux</h1>
+
+
+<h3 align="center">Repositery of code projects related to quantitative finance, mathematics, statistics and machine learning, developed during academic and professional experiences</h3>
+
+
+![Description](https://github.com/aristide-laloux/aristide-laloux/blob/main/Git%20Resume%20Aristide%20Laloux.jpg)
+
 
 <!--
 **aristide-laloux/aristide-laloux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
